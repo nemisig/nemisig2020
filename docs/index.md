@@ -8,8 +8,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 ## Venue
 
-This year, NEMISIG will be in Northampton MA, 1 February 2020. It is co-hosted by Smith's [Program in Statistics and Data Science](https://www.brown.edu/initiatives/data-science/) and the [MEME Department](https://www.brown.edu/academics/music/computer-music-multimedia-meme). NEMISIG is supported by the C.V Starr Foundation Lectureship fund with additional support from Spotify NYC.
-
+This year, NEMISIG will be in Northampton MA, 1 February 2020. It is co-hosted by Smith's [Program in Statistics and Data Science](https://www.brown.edu/initiatives/data-science/) and [Department of Computer Science](http://cs.smith.edu/).
 
 ## Schedule
 
