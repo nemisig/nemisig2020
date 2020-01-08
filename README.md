@@ -1,1 +1,2 @@
-# nemisig2020
+# NEMISIG 2020 
+Smith College
