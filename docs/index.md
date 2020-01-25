@@ -12,6 +12,8 @@ This year, NEMISIG will be in Northampton MA, 1 February 2020. It is co-hosted b
 
 NEMISIG is being sponsored by [iZotope](https://www.izotope.com/). Their generous support allows for us to have coffee and lunch for the day. Thank you to iZotope!
 
+![iZotope logo - Thank you iZotope!](iZotope.png)
+
 ## Schedule
 
 
