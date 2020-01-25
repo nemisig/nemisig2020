@@ -2,27 +2,39 @@
 
 NEMISIG (North East Music Information Special Interest Group) is a yearly informal meeting for Music Information Retrieval researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at Columbia (2008, 2014), NYU (2010), Drexel (2011, 2016), Dartmouth (2012), The Echo Nest (2013), Ithaca College (2015), University of Rochester (2017), Brown University (2018), and Brooklyn College (2019).
 
-Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfh6tNSTNOdrmn6ErMqCojWH3FiHW4tpCmod_NOcgqBHBROlQ/viewform?usp=sf_link) by **January 24, 2020**!
+Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfh6tNSTNOdrmn6ErMqCojWH3FiHW4tpCmod_NOcgqBHBROlQ/viewform?usp=sf_link) by **January 27, 2020**!
 
 If you have any questions, please direct them to the [Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
 
-## Venue
+## Venue 
 
-This year, NEMISIG will be in Northampton MA, 1 February 2020. It is co-hosted by Smith's [Program in Statistics and Data Science](https://www.brown.edu/initiatives/data-science/) and [Department of Computer Science](http://cs.smith.edu/).
+This year, NEMISIG will be in Northampton MA, 1 February 2020. It is co-hosted by Smith's [Program in Statistics and Data Science](https://www.brown.edu/initiatives/data-science/) and [Department of Computer Science](http://cs.smith.edu/).    
+
+NEMISIG is being sponsored by [iZotope](https://www.izotope.com/). Their generous support allows for us to have coffee and lunch for the day. Thank you to iZotope!
 
 ## Schedule
+
 
 ### NEMISIG
 Saturday, February 1, 2020
 
 
-**Morning Schedule**    
+**Morning Schedule**
 
-More Information to follow!     
+In McConnell Hall, room 105   
+
+* 8am to 8:45am -- Check in and coffee 
+* 8:45am to 10am -- Lab presentations  
+* 10:30am to noon -- Posters   
+
+
+**Lunch**
+
+Noon to 1pm
 
 **Afternoon Schedule**  
 
-More Information to follow!
+Unconference! 
 
 
 ### NEMIJAM
