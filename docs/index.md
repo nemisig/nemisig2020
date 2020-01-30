@@ -14,10 +14,8 @@ NEMISIG is being sponsored by [iZotope](https://www.izotope.com/). Their generou
 
 [iZotope logo - Thank you iZotope!](/images/iZotope.png)
 
-## Schedule
+## NEMISIG -- Schedule
 
-
-### NEMISIG
 Saturday, February 1, 2020
 
 
@@ -25,26 +23,32 @@ Saturday, February 1, 2020
 
 In McConnell Hall, room 105   
 
-* 8am to 8:45am -- Check in and coffee 
+* 8:15am to 8:45am -- Check in, coffee, and pastries
 * 8:45am to 10am -- Lab presentations  
 * 10:30am to noon -- Posters   
 
 
 **Lunch**
 
-Noon to 1pm
+Noon to 1pm -- Food and conversation
 
 **Afternoon Schedule**  
 
-Unconference! 
+Unconference in Ford Hall
+
+* 1pm to 1:30pm -- Discussion of topics, Rm 345
+* 1:30 to 2:30pm -- Break out one
+* 2:30 to 3pm -- Coffee & Reporting out
+* 3pm to 4pm -- Break out two
+* 4pm to 4:30pm -- Reporting in 
 
 
 ### NEMIJAM
 
-Details to be worked out
+NEMIJAM will be in the Earle Recital Hall is in the basement of Sage Hall from 7pm to 9pm. 
 
 
-### Local Map
+### Local Map & Parking
 
 Forthcoming!
 
