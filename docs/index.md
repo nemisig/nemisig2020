@@ -10,7 +10,7 @@ This year, NEMISIG will be in Northampton MA, 1 February 2020. It is co-hosted b
 
 NEMISIG is being sponsored by [iZotope](https://www.izotope.com/). Their generous support allows for us to have coffee and lunch for the day. Thank you to iZotope!
 
-[iZotope logo - Thank you iZotope!](/images/iZotope.png)
+![iZotope logo - Thank you iZotope!](/images/iZotope.png)
 
 ## NEMISIG -- Schedule
 
@@ -50,7 +50,7 @@ Please bring any instruments, mics, and/or amps that you would like to use.
 
 ### Local Map & Parking
 
-[Relevant part of Smith College](/images/SmallSmithmap.png)
+![Relevant part of Smith College](/images/SmallSmithmap.png)
 
 The Smith Parking that should be free on Saturday is off Green street. Click [here](https://www.google.com/maps/place/42%C2%B018'60.0%22N+72%C2%B038'16.0%22W/@42.316657,-72.6383182,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x89e6d74244819cbf:0xc219bf74ea0d7759!2sSeelye+Hall,+Seelye+Dr,+Northampton,+MA+01060!3b1!8m2!3d42.3176352!4d-72.6369476!3m5!1s0x0:0x0!7e2!8m2!3d42.3166569!4d-72.6377709) for the Google Map pin.
 
