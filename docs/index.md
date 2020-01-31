@@ -2,8 +2,6 @@
 
 NEMISIG (North East Music Information Special Interest Group) is a yearly informal meeting for Music Information Retrieval researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at Columbia (2008, 2014), NYU (2010), Drexel (2011, 2016), Dartmouth (2012), The Echo Nest (2013), Ithaca College (2015), University of Rochester (2017), Brown University (2018), and Brooklyn College (2019).
 
-Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfh6tNSTNOdrmn6ErMqCojWH3FiHW4tpCmod_NOcgqBHBROlQ/viewform?usp=sf_link) by **January 27, 2020**!
-
 If you have any questions, please direct them to the [Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
 
 ## Venue 
@@ -30,7 +28,7 @@ In McConnell Hall, room 105
 
 **Lunch**
 
-Noon to 1pm -- Food and conversation
+Noon to 1pm -- Food (provided) and conversation
 
 **Afternoon Schedule**  
 
@@ -42,15 +40,19 @@ Unconference in Ford Hall
 * 3pm to 4pm -- Break out two
 * 4pm to 4:30pm -- Reporting in 
 
+Dinner is on your own before NEMIJAM
 
 ### NEMIJAM
 
-NEMIJAM will be in the Earle Recital Hall is in the basement of Sage Hall from 7pm to 9pm. 
+NEMIJAM will be in the Earle Recital Hall is in the basement of Sage Hall from 7pm to 9pm.
+Please bring any instruments, mics, and/or amps that you would like to use.
 
 
 ### Local Map & Parking
 
-Forthcoming!
+[Relevant part of Smith College](/images/SmallSmithmap.png)
+
+The Smith Parking that should be free on Saturday is off Green street. Click [here](https://www.google.com/maps/place/42%C2%B018'60.0%22N+72%C2%B038'16.0%22W/@42.316657,-72.6383182,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x89e6d74244819cbf:0xc219bf74ea0d7759!2sSeelye+Hall,+Seelye+Dr,+Northampton,+MA+01060!3b1!8m2!3d42.3176352!4d-72.6369476!3m5!1s0x0:0x0!7e2!8m2!3d42.3166569!4d-72.6377709) for the Google Map pin.
 
 
 ## Travel and Accommodations
@@ -87,4 +89,5 @@ Most hotels are located in Hadley MA (across the river) about 20 minutes by car.
 [AirBnBs](https://www.airbnb.com/s/Northampton--MA/all) are also an option, with an average price around $110.
 
 ### Student Travel Grants
-We are aiming to have travel grants available for students. Please note on your registration form if you are interested in travel support. 
+
+Unfortunately this year, we are not able to offer student travel grants.
